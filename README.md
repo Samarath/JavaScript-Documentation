@@ -1,2 +1,3 @@
 # JavaScript-Documentation
-Technical Documentation of JavaScript
+
+You can read basic docs about JS in this repo site
